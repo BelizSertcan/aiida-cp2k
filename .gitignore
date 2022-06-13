@@ -2,6 +2,11 @@
 # Created by https://www.gitignore.io/api/vim,linux,macos,python,pycharm
 # Edit at https://www.gitignore.io/?templates=vim,linux,macos,python,pycharm
 
+## user specific:
+.readme.md
+computer.yml
+code_cp2k.yml
+
 ### Linux ###
 *~
 
